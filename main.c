@@ -10,3 +10,7 @@ int main(){
   sub3(); 
   return 0;
 }
+
+void sub3(){
+	printf("sub3");
+}
